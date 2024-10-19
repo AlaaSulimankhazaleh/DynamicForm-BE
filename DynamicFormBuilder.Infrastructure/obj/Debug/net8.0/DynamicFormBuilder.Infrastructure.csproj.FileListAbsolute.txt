@@ -1,0 +1,17 @@
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Infrastructure\bin\Debug\net8.0\DynamicFormBuilder.Infrastructure.deps.json
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Infrastructure\bin\Debug\net8.0\DynamicFormBuilder.Infrastructure.dll
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Infrastructure\bin\Debug\net8.0\DynamicFormBuilder.Infrastructure.pdb
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Infrastructure\bin\Debug\net8.0\DynamicFormBuilder.Application.dll
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Infrastructure\bin\Debug\net8.0\DynamicFormBuilder.Domain.dll
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Infrastructure\bin\Debug\net8.0\DynamicFormBuilder.Application.pdb
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Infrastructure\bin\Debug\net8.0\DynamicFormBuilder.Domain.pdb
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Infrastructure\obj\Debug\net8.0\DynamicFormBuilder.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Infrastructure\obj\Debug\net8.0\DynamicFormBuilder.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Infrastructure\obj\Debug\net8.0\DynamicFormBuilder.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Infrastructure\obj\Debug\net8.0\DynamicFormBuilder.Infrastructure.AssemblyInfo.cs
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Infrastructure\obj\Debug\net8.0\DynamicFormBuilder.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Infrastructure\obj\Debug\net8.0\DynamicF.E133E77F.Up2Date
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Infrastructure\obj\Debug\net8.0\DynamicFormBuilder.Infrastructure.dll
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Infrastructure\obj\Debug\net8.0\refint\DynamicFormBuilder.Infrastructure.dll
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Infrastructure\obj\Debug\net8.0\DynamicFormBuilder.Infrastructure.pdb
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Infrastructure\obj\Debug\net8.0\ref\DynamicFormBuilder.Infrastructure.dll

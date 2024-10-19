@@ -1,0 +1,12 @@
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Domain\bin\Debug\net8.0\DynamicFormBuilder.Domain.deps.json
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Domain\bin\Debug\net8.0\DynamicFormBuilder.Domain.dll
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Domain\bin\Debug\net8.0\DynamicFormBuilder.Domain.pdb
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Domain\obj\Debug\net8.0\DynamicFormBuilder.Domain.csproj.AssemblyReference.cache
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Domain\obj\Debug\net8.0\DynamicFormBuilder.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Domain\obj\Debug\net8.0\DynamicFormBuilder.Domain.AssemblyInfoInputs.cache
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Domain\obj\Debug\net8.0\DynamicFormBuilder.Domain.AssemblyInfo.cs
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Domain\obj\Debug\net8.0\DynamicFormBuilder.Domain.csproj.CoreCompileInputs.cache
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Domain\obj\Debug\net8.0\DynamicFormBuilder.Domain.dll
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Domain\obj\Debug\net8.0\refint\DynamicFormBuilder.Domain.dll
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Domain\obj\Debug\net8.0\DynamicFormBuilder.Domain.pdb
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Domain\obj\Debug\net8.0\ref\DynamicFormBuilder.Domain.dll

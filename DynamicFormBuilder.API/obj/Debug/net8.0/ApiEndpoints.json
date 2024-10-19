@@ -1,0 +1,106 @@
+[
+  {
+    "ContainingType": "DynamicFormBuilder.API.Controllers.FormController",
+    "Method": "Add",
+    "RelativePath": "api/Form/Add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "DynamicFormBuilder.Application.DTO.FormModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DynamicFormBuilder.Application.Common.IResponseResult\u00601[[DynamicFormBuilder.Application.DTO.FormModel, DynamicFormBuilder.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DynamicFormBuilder.API.Controllers.FormController",
+    "Method": "Update",
+    "RelativePath": "api/Form/Update",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "DynamicFormBuilder.Application.DTO.FormModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DynamicFormBuilder.Application.Common.IResponseResult\u00601[[DynamicFormBuilder.Application.DTO.FormModel, DynamicFormBuilder.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DynamicFormBuilder.API.Controllers.UsersController",
+    "Method": "SignIn",
+    "RelativePath": "api/Users/SignIn",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registerRequest",
+        "Type": "DynamicFormBuilder.Application.DTO.SignInRequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DynamicFormBuilder.Application.Common.IResponseResult\u00601[[DynamicFormBuilder.Application.DTO.SignInResponseModel, DynamicFormBuilder.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DynamicFormBuilder.API.Controllers.UsersController",
+    "Method": "SignUp",
+    "RelativePath": "api/Users/SignUp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registerRequest",
+        "Type": "DynamicFormBuilder.Application.DTO.RegisterRequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DynamicFormBuilder.Application.Common.IResponseResult\u00601[[DynamicFormBuilder.Application.DTO.RegisterResponseModel, DynamicFormBuilder.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

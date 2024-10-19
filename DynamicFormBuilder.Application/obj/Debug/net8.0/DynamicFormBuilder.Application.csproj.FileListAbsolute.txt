@@ -1,0 +1,15 @@
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Application\bin\Debug\net8.0\DynamicFormBuilder.Application.deps.json
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Application\bin\Debug\net8.0\DynamicFormBuilder.Application.dll
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Application\bin\Debug\net8.0\DynamicFormBuilder.Application.pdb
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Application\bin\Debug\net8.0\DynamicFormBuilder.Domain.dll
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Application\bin\Debug\net8.0\DynamicFormBuilder.Domain.pdb
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Application\obj\Debug\net8.0\DynamicFormBuilder.Application.csproj.AssemblyReference.cache
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Application\obj\Debug\net8.0\DynamicFormBuilder.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Application\obj\Debug\net8.0\DynamicFormBuilder.Application.AssemblyInfoInputs.cache
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Application\obj\Debug\net8.0\DynamicFormBuilder.Application.AssemblyInfo.cs
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Application\obj\Debug\net8.0\DynamicFormBuilder.Application.csproj.CoreCompileInputs.cache
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Application\obj\Debug\net8.0\DynamicF.8CD12C19.Up2Date
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Application\obj\Debug\net8.0\DynamicFormBuilder.Application.dll
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Application\obj\Debug\net8.0\refint\DynamicFormBuilder.Application.dll
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Application\obj\Debug\net8.0\DynamicFormBuilder.Application.pdb
+C:\Users\AlaaKhazaleh\Desktop\DDDTaturial\DynamicFormBuilder\DynamicFormBuilder.Application\obj\Debug\net8.0\ref\DynamicFormBuilder.Application.dll

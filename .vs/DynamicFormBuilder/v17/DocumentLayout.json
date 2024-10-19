@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AlaaKhazaleh\\Desktop\\DDDTaturial\\DynamicFormBuilder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4EB7D3F-AA94-4C5C-A433-EB48F421F558}|DynamicFormBuilder.Application\\DynamicFormBuilder.Application.csproj|c:\\users\\alaakhazaleh\\desktop\\dddtaturial\\dynamicformbuilder\\dynamicformbuilder.application\\servics\\formservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4EB7D3F-AA94-4C5C-A433-EB48F421F558}|DynamicFormBuilder.Application\\DynamicFormBuilder.Application.csproj|solutionrelative:dynamicformbuilder.application\\servics\\formservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F155EED3-E830-4378-86F7-4721905DD2C3}|DynamicFormBuilder.API\\DynamicFormBuilder.API.csproj|c:\\users\\alaakhazaleh\\desktop\\dddtaturial\\dynamicformbuilder\\dynamicformbuilder.api\\controllers\\formcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F155EED3-E830-4378-86F7-4721905DD2C3}|DynamicFormBuilder.API\\DynamicFormBuilder.API.csproj|solutionrelative:dynamicformbuilder.api\\controllers\\formcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FAD17CD-98E7-42E9-ABBA-02A2CDBC139B}|DynamicFormBuilder.Infrastructure\\DynamicFormBuilder.Infrastructure.csproj|c:\\users\\alaakhazaleh\\desktop\\dddtaturial\\dynamicformbuilder\\dynamicformbuilder.infrastructure\\context\\dynamicformbuilderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FAD17CD-98E7-42E9-ABBA-02A2CDBC139B}|DynamicFormBuilder.Infrastructure\\DynamicFormBuilder.Infrastructure.csproj|solutionrelative:dynamicformbuilder.infrastructure\\context\\dynamicformbuilderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9D3BB-0F00-464E-AB7C-246C0C14E07A}|DynamicFormBuilder.Domain\\DynamicFormBuilder.Domain.csproj|c:\\users\\alaakhazaleh\\desktop\\dddtaturial\\dynamicformbuilder\\dynamicformbuilder.domain\\entities\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA9D3BB-0F00-464E-AB7C-246C0C14E07A}|DynamicFormBuilder.Domain\\DynamicFormBuilder.Domain.csproj|solutionrelative:dynamicformbuilder.domain\\entities\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4EB7D3F-AA94-4C5C-A433-EB48F421F558}|DynamicFormBuilder.Application\\DynamicFormBuilder.Application.csproj|c:\\users\\alaakhazaleh\\desktop\\dddtaturial\\dynamicformbuilder\\dynamicformbuilder.application\\dto\\formmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4EB7D3F-AA94-4C5C-A433-EB48F421F558}|DynamicFormBuilder.Application\\DynamicFormBuilder.Application.csproj|solutionrelative:dynamicformbuilder.application\\dto\\formmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9D3BB-0F00-464E-AB7C-246C0C14E07A}|DynamicFormBuilder.Domain\\DynamicFormBuilder.Domain.csproj|c:\\users\\alaakhazaleh\\desktop\\dddtaturial\\dynamicformbuilder\\dynamicformbuilder.domain\\entities\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA9D3BB-0F00-464E-AB7C-246C0C14E07A}|DynamicFormBuilder.Domain\\DynamicFormBuilder.Domain.csproj|solutionrelative:dynamicformbuilder.domain\\entities\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4EB7D3F-AA94-4C5C-A433-EB48F421F558}|DynamicFormBuilder.Application\\DynamicFormBuilder.Application.csproj|c:\\users\\alaakhazaleh\\desktop\\dddtaturial\\dynamicformbuilder\\dynamicformbuilder.application\\dto\\controldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4EB7D3F-AA94-4C5C-A433-EB48F421F558}|DynamicFormBuilder.Application\\DynamicFormBuilder.Application.csproj|solutionrelative:dynamicformbuilder.application\\dto\\controldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9D3BB-0F00-464E-AB7C-246C0C14E07A}|DynamicFormBuilder.Domain\\DynamicFormBuilder.Domain.csproj|c:\\users\\alaakhazaleh\\desktop\\dddtaturial\\dynamicformbuilder\\dynamicformbuilder.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA9D3BB-0F00-464E-AB7C-246C0C14E07A}|DynamicFormBuilder.Domain\\DynamicFormBuilder.Domain.csproj|solutionrelative:dynamicformbuilder.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FAD17CD-98E7-42E9-ABBA-02A2CDBC139B}|DynamicFormBuilder.Infrastructure\\DynamicFormBuilder.Infrastructure.csproj|c:\\users\\alaakhazaleh\\desktop\\dddtaturial\\dynamicformbuilder\\dynamicformbuilder.infrastructure\\repositories\\repositoryunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FAD17CD-98E7-42E9-ABBA-02A2CDBC139B}|DynamicFormBuilder.Infrastructure\\DynamicFormBuilder.Infrastructure.csproj|solutionrelative:dynamicformbuilder.infrastructure\\repositories\\repositoryunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4EB7D3F-AA94-4C5C-A433-EB48F421F558}|DynamicFormBuilder.Application\\DynamicFormBuilder.Application.csproj|c:\\users\\alaakhazaleh\\desktop\\dddtaturial\\dynamicformbuilder\\dynamicformbuilder.application\\irepositories\\irepositoryunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4EB7D3F-AA94-4C5C-A433-EB48F421F558}|DynamicFormBuilder.Application\\DynamicFormBuilder.Application.csproj|solutionrelative:dynamicformbuilder.application\\irepositories\\irepositoryunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9D3BB-0F00-464E-AB7C-246C0C14E07A}|DynamicFormBuilder.Domain\\DynamicFormBuilder.Domain.csproj|c:\\users\\alaakhazaleh\\desktop\\dddtaturial\\dynamicformbuilder\\dynamicformbuilder.domain\\irepositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA9D3BB-0F00-464E-AB7C-246C0C14E07A}|DynamicFormBuilder.Domain\\DynamicFormBuilder.Domain.csproj|solutionrelative:dynamicformbuilder.domain\\irepositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F155EED3-E830-4378-86F7-4721905DD2C3}|DynamicFormBuilder.API\\DynamicFormBuilder.API.csproj|c:\\users\\alaakhazaleh\\desktop\\dddtaturial\\dynamicformbuilder\\dynamicformbuilder.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F155EED3-E830-4378-86F7-4721905DD2C3}|DynamicFormBuilder.API\\DynamicFormBuilder.API.csproj|solutionrelative:dynamicformbuilder.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormModel.cs",
+              "DocumentMoniker": "C:\\Users\\AlaaKhazaleh\\Desktop\\DDDTaturial\\DynamicFormBuilder\\DynamicFormBuilder.Application\\DTO\\FormModel.cs",
+              "RelativeDocumentMoniker": "DynamicFormBuilder.Application\\DTO\\FormModel.cs",
+              "ToolTip": "C:\\Users\\AlaaKhazaleh\\Desktop\\DDDTaturial\\DynamicFormBuilder\\DynamicFormBuilder.Application\\DTO\\FormModel.cs",
+              "RelativeToolTip": "DynamicFormBuilder.Application\\DTO\\FormModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T22:13:29.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ControlDto.cs",
+              "DocumentMoniker": "C:\\Users\\AlaaKhazaleh\\Desktop\\DDDTaturial\\DynamicFormBuilder\\DynamicFormBuilder.Application\\DTO\\ControlDto.cs",
+              "RelativeDocumentMoniker": "DynamicFormBuilder.Application\\DTO\\ControlDto.cs",
+              "ToolTip": "C:\\Users\\AlaaKhazaleh\\Desktop\\DDDTaturial\\DynamicFormBuilder\\DynamicFormBuilder.Application\\DTO\\ControlDto.cs",
+              "RelativeToolTip": "DynamicFormBuilder.Application\\DTO\\ControlDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T22:14:00.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\AlaaKhazaleh\\Desktop\\DDDTaturial\\DynamicFormBuilder\\DynamicFormBuilder.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "DynamicFormBuilder.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\AlaaKhazaleh\\Desktop\\DDDTaturial\\DynamicFormBuilder\\DynamicFormBuilder.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "DynamicFormBuilder.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:36:32.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DynamicFormBuilderDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\AlaaKhazaleh\\Desktop\\DDDTaturial\\DynamicFormBuilder\\DynamicFormBuilder.Infrastructure\\Context\\DynamicFormBuilderDbContext.cs",
+              "RelativeDocumentMoniker": "DynamicFormBuilder.Infrastructure\\Context\\DynamicFormBuilderDbContext.cs",
+              "ToolTip": "C:\\Users\\AlaaKhazaleh\\Desktop\\DDDTaturial\\DynamicFormBuilder\\DynamicFormBuilder.Infrastructure\\Context\\DynamicFormBuilderDbContext.cs",
+              "RelativeToolTip": "DynamicFormBuilder.Infrastructure\\Context\\DynamicFormBuilderDbContext.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAlwG0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:36:10.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form.cs",
+              "DocumentMoniker": "C:\\Users\\AlaaKhazaleh\\Desktop\\DDDTaturial\\DynamicFormBuilder\\DynamicFormBuilder.Domain\\Entities\\Form.cs",
+              "RelativeDocumentMoniker": "DynamicFormBuilder.Domain\\Entities\\Form.cs",
+              "ToolTip": "C:\\Users\\AlaaKhazaleh\\Desktop\\DDDTaturial\\DynamicFormBuilder\\DynamicFormBuilder.Domain\\Entities\\Form.cs",
+              "RelativeToolTip": "DynamicFormBuilder.Domain\\Entities\\Form.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:36:02.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RepositoryUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\AlaaKhazaleh\\Desktop\\DDDTaturial\\DynamicFormBuilder\\DynamicFormBuilder.Infrastructure\\Repositories\\RepositoryUnitOfWork.cs",
+              "RelativeDocumentMoniker": "DynamicFormBuilder.Infrastructure\\Repositories\\RepositoryUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\AlaaKhazaleh\\Desktop\\DDDTaturial\\DynamicFormBuilder\\DynamicFormBuilder.Infrastructure\\Repositories\\RepositoryUnitOfWork.cs",
+              "RelativeToolTip": "DynamicFormBuilder.Infrastructure\\Repositories\\RepositoryUnitOfWork.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:31:56.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormService.cs",
+              "DocumentMoniker": "C:\\Users\\AlaaKhazaleh\\Desktop\\DDDTaturial\\DynamicFormBuilder\\DynamicFormBuilder.Application\\Servics\\FormService.cs",
+              "RelativeDocumentMoniker": "DynamicFormBuilder.Application\\Servics\\FormService.cs",
+              "ToolTip": "C:\\Users\\AlaaKhazaleh\\Desktop\\DDDTaturial\\DynamicFormBuilder\\DynamicFormBuilder.Application\\Servics\\FormService.cs",
+              "RelativeToolTip": "DynamicFormBuilder.Application\\Servics\\FormService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwDUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T13:36:32.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Control.cs",
+              "DocumentMoniker": "C:\\Users\\AlaaKhazaleh\\Desktop\\DDDTaturial\\DynamicFormBuilder\\DynamicFormBuilder.Domain\\Entities\\Control.cs",
+              "RelativeDocumentMoniker": "DynamicFormBuilder.Domain\\Entities\\Control.cs",
+              "ToolTip": "C:\\Users\\AlaaKhazaleh\\Desktop\\DDDTaturial\\DynamicFormBuilder\\DynamicFormBuilder.Domain\\Entities\\Control.cs",
+              "RelativeToolTip": "DynamicFormBuilder.Domain\\Entities\\Control.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:36:53.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepositoryUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\AlaaKhazaleh\\Desktop\\DDDTaturial\\DynamicFormBuilder\\DynamicFormBuilder.Application\\IRepositories\\IRepositoryUnitOfWork.cs",
+              "RelativeDocumentMoniker": "DynamicFormBuilder.Application\\IRepositories\\IRepositoryUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\AlaaKhazaleh\\Desktop\\DDDTaturial\\DynamicFormBuilder\\DynamicFormBuilder.Application\\IRepositories\\IRepositoryUnitOfWork.cs",
+              "RelativeToolTip": "DynamicFormBuilder.Application\\IRepositories\\IRepositoryUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:31:37.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AlaaKhazaleh\\Desktop\\DDDTaturial\\DynamicFormBuilder\\DynamicFormBuilder.Domain\\IRepositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "DynamicFormBuilder.Domain\\IRepositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\AlaaKhazaleh\\Desktop\\DDDTaturial\\DynamicFormBuilder\\DynamicFormBuilder.Domain\\IRepositories\\IUserRepository.cs",
+              "RelativeToolTip": "DynamicFormBuilder.Domain\\IRepositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:30:22.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormController.cs",
+              "DocumentMoniker": "C:\\Users\\AlaaKhazaleh\\Desktop\\DDDTaturial\\DynamicFormBuilder\\DynamicFormBuilder.API\\Controllers\\FormController.cs",
+              "RelativeDocumentMoniker": "DynamicFormBuilder.API\\Controllers\\FormController.cs",
+              "ToolTip": "C:\\Users\\AlaaKhazaleh\\Desktop\\DDDTaturial\\DynamicFormBuilder\\DynamicFormBuilder.API\\Controllers\\FormController.cs",
+              "RelativeToolTip": "DynamicFormBuilder.API\\Controllers\\FormController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIAywCsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T13:56:50.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AlaaKhazaleh\\Desktop\\DDDTaturial\\DynamicFormBuilder\\DynamicFormBuilder.API\\Program.cs",
+              "RelativeDocumentMoniker": "DynamicFormBuilder.API\\Program.cs",
+              "ToolTip": "C:\\Users\\AlaaKhazaleh\\Desktop\\DDDTaturial\\DynamicFormBuilder\\DynamicFormBuilder.API\\Program.cs",
+              "RelativeToolTip": "DynamicFormBuilder.API\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T13:39:22.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
